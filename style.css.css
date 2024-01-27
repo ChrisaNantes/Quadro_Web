@@ -1,0 +1,87 @@
+
+b { 
+    color:white;
+}
+h2 {
+    color: white;
+}
+.font {
+    color: rgb(0, 217, 217);
+    font-size: 40px;
+}
+p {
+    color:white;
+}
+#header {
+    border:0;
+    width: 100%;
+    background-color:rgba(50, 63, 63, 0.801);
+   height: 70px;
+}
+body {
+    background-color: black;
+    height:auto;
+    width:auto;
+}
+
+img {
+   float:left;
+   height: 300px;
+   width: 300px;
+}
+ 
+  a {
+   color: white;
+  }
+th {
+    color:white;
+}
+#home {
+  
+   transform: translateX(10%);
+   margin: 5%;
+   padding-left:9%;
+   
+}
+.left {
+    background-color: rgb(49, 52, 51);
+}
+.font-color {
+    color: white;
+}
+#about {
+    font-size: 200%;
+    text-align: center;
+}
+#footer2 {
+    background-color:grey;
+    text-align:center;
+    width: 100%;
+}
+
+#Objective {
+    color: white;
+}
+.resume {
+    border: 5%;
+    background-color:rgb(91, 102, 99);
+    bottom: 100px;
+    width: 30%;
+    height: 200px;
+    
+}
+.border {
+    border: 1px;
+    width: 50%;
+    background-color: rgb(67, 75, 73);
+    padding:10px;
+    transform: translateX(60%);
+}
+.image2 {
+    margin:50px;
+    padding: 20px;
+}
+#objectives {
+   margin: 12px;
+}
+
